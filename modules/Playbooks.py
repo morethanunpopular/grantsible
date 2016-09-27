@@ -18,7 +18,7 @@ class ResultCallback(CallbackBase):
 
 
 
-# create inventory and pass to var manager
+# Class Representing a Playbook Object
 
 class PlayBook:
   def __init__(self,PlaybookPath,InventoryPath):
